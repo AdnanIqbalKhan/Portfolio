@@ -5,5 +5,5 @@ I'm a professional software engineer with five years of experience having expert
 
 ## Portfolio
 
-- [Kindred App](KindredApp/Readme.md)
-- [Business Card](BusinessCardWebsite/Readme.md)
+- [Kindred App](KindredApp)
+- [Business Card](BusinessCardWebsite)
